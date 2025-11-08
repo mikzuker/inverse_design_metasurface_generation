@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faf64957-1e41-46f1-ba3c-1f4f1e482a87" name="Changes" comment="First iteration">
+      <change afterPath="$PROJECT_DIR$/.devcontainer/devcontainer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Archive.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/fifteen_spheres_on_substrate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/three_spheres_in_waveguide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fort.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/axlen.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/axlencorr.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/axlenprec.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/fit.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/sigvec.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/stddev.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/x0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/xmean.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outcmaes/xrecentbest.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/data.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/norm_E_tot.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/norm_E_tot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/scattered_far_field_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/scattered_far_field_bottom_polar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/scattered_far_field_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/scattered_far_field_top_polar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphere_metasurface/fitness_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphere_metasurface/optimization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphere_metasurface/parametrization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphere_metasurface/plots/far_field_pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sphere_metasurface/plots/mesh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryouts/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryouts/Cylinder_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryouts/Structure_plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryouts/Thoughts_about_fitness_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryouts/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryouts/mie_calcutator_comparison.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2taLUur6RQ3UEBwHzpYYKdmo4uE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mikzuker/PycharmProjects/test_smuthi"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faf64957-1e41-46f1-ba3c-1f4f1e482a87" name="Changes" comment="" />
+      <created>1740585257740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740585257740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sphere_metasurface/optimization.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
