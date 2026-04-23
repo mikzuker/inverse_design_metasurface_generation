@@ -175,3 +175,16 @@ sphere_metasurface/               # Metasurface parametrization and optimization
 ├── object_checker.py             # Object validation and checking
 ├── experiment_reproducing.py     # Experiment reproduction utilities
 ```
+
+## Citation
+
+If you find this work useful, please cite it using the following BibTeX entry:
+
+```bibtex
+@article{tsukerman2025diffusion,
+  title={Diffusion-Based Electromagnetic Inverse Design of Scattering Structured Media},
+  author={Tsukerman, Mikhail and Grotov, Konstantin and Ginzburg, Pavel},
+  journal={arXiv:2511.05357},
+  year={2025}
+}
+```
